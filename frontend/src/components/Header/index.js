@@ -1,7 +1,7 @@
 import React from 'react';
 import { Logo, HeaderContainer } from './styles';
 
-import Icone from '../../assets/logo.png';
+import Icone from '../../assets/dog.png';
 
 function Header(props) {
     return (
@@ -11,7 +11,7 @@ function Header(props) {
                <h1>Atena</h1>
                <p>{props.children}</p>
            </HeaderContainer>
-        </>    
+        </>
     )
 }
 

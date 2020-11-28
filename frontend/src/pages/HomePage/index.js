@@ -3,7 +3,7 @@ import Header from '../../components/Header';
 import { Container, InputGroup, FormControl, Button, Alert, Spinner } from 'react-bootstrap';
 import { ContentContainer, Form, AdsBlock } from './styles';
 import ShortenerService from '../../services/shortenerService';
-
+import vars from '../../configs/vars';
 
 class HomePage extends React.Component {
     constructor(props) {
@@ -70,14 +70,14 @@ class HomePage extends React.Component {
                                     <InputGroup className="mb-3">
                                         <FormControl
                                             autoFocus={true}
-                                            defaultValue={`https://atena.tk/${code}`}
+                                            defaultValue={vars.HOST_APP + code}
                                             ref={(input) => this.inputURL = input}
                                         />
                                         <InputGroup.Append>
                                             <Button variant="outline-secondary" onClick={() => this.copyToClipboard()}>Copiar</Button>
                                         </InputGroup.Append>
                                     </InputGroup>
-                                    <p>Para acompanhar as estatísticas, acesse https://atena.tk/{code}</p>
+                                    <p>Para acompanhar as estatísticas, acesse {vars.HOST_APP + code}</p>
                                 </>
                             )
                         )}
@@ -85,9 +85,12 @@ class HomePage extends React.Component {
                     </Form>
                 </ContentContainer>
                 <ContentContainer>
-                    <AdsBlock>Adense</AdsBlock>
+                    <AdsBlock>
+                        <a href="https://lp.luiztools.com.br/curso-wfs-js/" target="_blank">Web Full Stack - JavaScript - Curso completo</a>
+                    </AdsBlock>
                 </ContentContainer>
             </Container>
+
         )
     }
 }

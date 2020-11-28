@@ -23,3 +23,12 @@ export const AdsBlock = styled.div`
     flex: 0 0 80%;
     max-width: 80%;
 `;
+
+export const Logo = styled.img`
+    flex: 0 0 80%;
+    max-width: 25%;
+    text-align: center;
+    padding: 2rem;
+`;
+
+
