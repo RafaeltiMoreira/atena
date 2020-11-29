@@ -23,7 +23,7 @@
 
 ------------
 
-- Semana Web Full Stack - ✔️ Mais um grande passo importante de alto nível no desenvolvimento e crescimento na carreria DEV.
+- Semana Web Full Stack - ✔️ Mais um grande passo importante de alto nível no desenvolvimento e crescimento na carreira DEV.
 💪 Acesse o projeto: http://www.atenati.tk 🚀 [![Encurtador Atena](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://www.atenati.tk)
 Obs.: o endereço proposto encurtapitu não apontava para o DNS.
 - Muito conteúdo e ótima didática, com os professores: 👇
