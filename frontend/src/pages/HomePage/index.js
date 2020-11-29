@@ -86,7 +86,7 @@ class HomePage extends React.Component {
                 </ContentContainer>
                 <ContentContainer>
                     <AdsBlock>
-                        <a href="https://lp.luiztools.com.br/curso-wfs-js/" target="_blank">Web Full Stack - JavaScript - Curso completo</a>
+                        <a href="https://lp.luiztools.com.br/curso-wfs-js/" target="blank">Web Full Stack - JavaScript - Curso completo</a>
                     </AdsBlock>
                 </ContentContainer>
             </Container>
