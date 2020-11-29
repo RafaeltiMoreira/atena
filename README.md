@@ -24,7 +24,7 @@
 ------------
 
 - Semana Web Full Stack - ✔️ Mais um grande passo importante de alto nível no desenvolvimento e crescimento na carreria DEV.
-💪 Acesse o projeto: http://www.atenati.tk 🚀
+💪 Acesse o projeto: http://www.atenati.tk 🚀 [![Encurtador Atena](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://www.atenati.tk)
 Obs.: o endereço proposto encurtapitu não apontava para o DNS.
 - Muito conteúdo e ótima didática, com os professores: 👇
 - Luiz Tools - [![Linkedin Badge](https://img.shields.io/badge/-LuizTools-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiztools/)](https://www.linkedin.com/in/luiztools/) 
@@ -45,5 +45,5 @@ Acesse no encurtador: http://www.atenati.tk/wifYt ou na imagem: 👇
 ### Screenshots 📷
 
 ------------
-[![Web Full Stack](https://i.imgur.com/i0LH9xH.png "Web Full Stack")](http://www.atenati.tk/ "Web Full Stack")
+[![Encurtador URL - Atena](https://i.imgur.com/i0LH9xH.png "Web Full Stack")](http://www.atenati.tk/ "Encurtador URL - Atena")
 
