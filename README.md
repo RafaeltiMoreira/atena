@@ -45,5 +45,5 @@ Acesse no encurtador: http://www.atenati.tk/wifYt ou na imagem: 👇
 ### Screenshots 📷
 
 ------------
-[![Web Full Stack](https://i.imgur.com/i0LH9xH.png "Web Full Stack")](https://www.atenati.tk/ "Web Full Stack")
+[![Web Full Stack](https://i.imgur.com/i0LH9xH.png "Web Full Stack")](http://www.atenati.tk/ "Web Full Stack")
 
