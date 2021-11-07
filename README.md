@@ -39,9 +39,7 @@ Obs.: o endereço proposto encurtapitu não apontava para o DNS.
 ------------
 
 - Curso completo - Web Full Stack - JavaScript
-Acesse no encurtador: http://www.atenati.tk/wifYt ou na imagem: 👇 
-[![Web Full Stack](https://i.imgur.com/Z6b8p1y.png "Web Full Stack")](https://lp.luiztools.com.br/curso-wfs-js/ "Web Full Stack")
-
+Acesse no encurtador: http://www.atenati.tk/wifYt 
 ### Screenshots 📷
 
 ------------
